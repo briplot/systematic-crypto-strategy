@@ -53,7 +53,7 @@ Performance is measured using Sharpe ratio, return-volatility profiles, and visu
 
 ## 📈 Results Summary
 
-| Strategy                          | Sharpe Ratio (pre-cost) | Notes                                |
+| Strategy                          | Sharpe Ratio (net-cost) | Notes                                |
 |----------------------------------|--------------------------|--------------------------------------|
 | Momentum (Z-score)               | ~1.2                     | Strong performance before 2021       |
 | Momentum w/ Volatility Filter    | ~1.2                     | Slightly improved Sharpe ratio       |
