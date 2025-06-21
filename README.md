@@ -2,13 +2,13 @@
 
 This project implements and evaluates systematic trading strategies using historical cryptocurrency data. The strategies include momentum-based approaches, volatility filtering, and mean reversion via residual returns. The goal is to assess whether alpha can be extracted from regime-aware applications of simple statistical signals.
 
-📅 **Author**: Brian Plotnik  
-📘 **Date**: October 2024  
-🧠 **Focus**: Strategy research, alpha generation, signal design, risk-adjusted return evaluation
+**Author**: Brian Plotnik  
+**Date**: October 2024  
+**Focus**: Strategy research, alpha generation, signal design, risk-adjusted return evaluation
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 Cryptocurrency markets are volatile and relatively inefficient compared to traditional markets. This project investigates whether classic systematic momentum and mean reversion strategies can consistently generate excess returns.
 
@@ -22,7 +22,7 @@ Performance is measured using Sharpe ratio, return-volatility profiles, and visu
 
 ---
 
-## 📊 Methodology
+## Methodology
 
 ### Data Source
 - Historical daily cryptocurrency prices sourced from public APIs (e.g., Binance API)
@@ -51,7 +51,7 @@ Performance is measured using Sharpe ratio, return-volatility profiles, and visu
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 | Strategy                          | Sharpe Ratio (net-cost) | Notes                                |
 |----------------------------------|--------------------------|--------------------------------------|
@@ -61,7 +61,7 @@ Performance is measured using Sharpe ratio, return-volatility profiles, and visu
 
 ---
 
-## 🧪 Tools & Libraries
+## Tools & Libraries
 
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scipy`, `sklearn`, `statsmodels`
@@ -71,7 +71,7 @@ Performance is measured using Sharpe ratio, return-volatility profiles, and visu
 
 ---
 
-## 📁 File Structure
+## File Structure
 crypto-strategy-project/
 ├── cleaned_crypto_project_brianplotnik.ipynb # Full strategy implementation
 ├── requirements.txt # Python dependencies
@@ -80,7 +80,7 @@ crypto-strategy-project/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
